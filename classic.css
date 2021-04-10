@@ -1,0 +1,26 @@
+body
+{
+    background-image: url(2018_Royal_Enfield_Interceptor_650_and_Continental_GT_650_Bike.jpg)
+}
+h1
+{
+	background-color:white;
+	font:color=white;
+}
+table
+{
+    width: 100%;
+    height: auto;
+    background-color: cyan;
+    border-bottom-width: medium;
+}
+th
+{
+	font-size:35px;
+    font-style: bold,oblique;
+}
+td
+{
+	font-size:16px;
+    text-align: center;  
+}
